@@ -27,3 +27,9 @@ This notebook includes all preprocessing, modeling, and analysis code.
 
 [Source Code](https://colab.research.google.com/drive/1-SWlPhNLZe2Eeuz7HAVxNSxPm7hvdPam?usp=sharing&fbclid=IwY2xjawLjFgtleHRuA2FlbQIxMABicmlkETBNTTVjVVhuaWU5QkVtVVRYAR4daSWF7MCx52-0cHEIZBoDBUvBUgejmV4e5WYEAGvHrtFh3AunksTO2srVNA_aem_yvydxOjduwgo1xqftrQvHw#scrollTo=rW9J37XJJMoN)
 
+## 
+
+**Notes:**
+- Ensure the dataset is available when running the notebook
+- Install required libraries (e.g., pandas, scikit-learn, matplotlib, shap)
+
