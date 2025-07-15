@@ -22,6 +22,8 @@ The project uses a cleaned version of the OSMI Mental Health in Tech Survey data
 
 [Cleaned Dataset](https://docs.google.com/spreadsheets/d/10ckOM27uNjwhFGOnUQ2GEdAem5Al8xt_N3IUrDCpVgA/edit?usp=drive_link)
 
+[Raw Dataset](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
+
 ## Google Colab (Source Code)
 This notebook includes all preprocessing, modeling, and analysis code.
 
